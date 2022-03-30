@@ -115,7 +115,7 @@
   </macro>
   <macro name="contributors-short">
     <names variable="author">
-      <name form="short" and="text" et-al-min="7" initialize-with=". "/>
+      <name form="short" and="text" et-al-min="11" initialize-with=". "/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>
